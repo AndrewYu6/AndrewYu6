@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndrewYu9
+- mindgod_3shots
 
 <!---
 AndrewYu6/AndrewYu6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
